@@ -1,0 +1,70 @@
+body{
+    background-color:  #cccccc;
+}
+
+#main-content{
+    background-color: #ffffff;
+}
+
+.see-deal {
+	box-shadow: 0px 0px 14px -7px #3dc21b;
+	background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+	background-color:#44c767;
+	border-radius:6px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#06730d;
+	font-family:Arial;
+	font-size:12px;
+	font-weight:bold;
+	padding:8px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.see-deal:hover {
+	background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
+	background-color:#5cbf2a;
+}
+.see-deal:active {
+	position:relative;
+	top:1px;
+}
+
+#Buy-btn {
+	box-shadow: 0px 0px 14px -7px #3dc21b;
+	background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+	background-color:#44c767;
+	border-radius:6px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#06730d;
+	font-family:Arial;
+	font-size:22px;
+	font-weight:bold;
+	padding:8px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+    text-align: center;
+}
+#Buy-btn:hover {
+    text-align: center;
+	background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
+	background-color:#5cbf2a;
+}
+#Buy-btn:active {
+    text-align: center;
+	position:relative;
+	top:1px;
+}
+
+        
+#footer{
+    text-align: center;
+    padding: 30px;
+}
+
+.bottom-link, .external-link{
+	color: #5cbf2a
+}
